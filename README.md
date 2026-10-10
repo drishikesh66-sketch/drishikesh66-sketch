@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- 🚍 Where Is My Bus – Real-time Bus Tracking System<br>- 🍽️ MenuMap – QR-Based Restaurant Ordering System<br><br>👯 I’m looking to collaborate on<br>- AI, Full-Stack Web Development & Open Source Projects<br><br>🤝 I’m looking for help with<br>- Backend Development, System Design & Deployment<br><br>🌱 I’m currently learning<br>- JavaScript, React, Python, Firebase & AI Development<br><br>💬 Ask me about<br>- Web Development, Startups, Hackathons & Firebase<br><br>⚡ Fun fact<br>- I love turning ideas into real projects and learning by building.
+🔭 I’m currently working on<br>- 🚍 Where Is My Bus – Real-time Bus Tracking System<br>- 🍽️ SmartDine – QR-Based Restaurant Ordering System<br><br>👯 I’m looking to collaborate on<br>- AI, Full-Stack Web Development & Open Source Projects<br><br>🤝 I’m looking for help with<br>- Backend Development, System Design & Deployment<br><br>🌱 I’m currently learning<br>- JavaScript, React, Python, Firebase & AI Development<br><br>💬 Ask me about<br>- Web Development, Startups, Hackathons & Firebase<br><br>⚡ Fun fact<br>- I love turning ideas into real projects and learning by building.
 
 
 ## 🌐 Socials:
